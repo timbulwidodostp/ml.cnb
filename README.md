@@ -1,6 +1,8 @@
 # ml.cnb
 The contaminated negative binomial regression model Use ml.cnb With (In) R Software
 
+https://www.youtube.com/watch?v=FJwWDI3_lVc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
